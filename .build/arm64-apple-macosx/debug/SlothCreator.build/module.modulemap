@@ -1,0 +1,4 @@
+module SlothCreator {
+    header "/Users/jmanik/Downloads/SlothCreatorBuildingDocCDocumentationInXcode/.build/arm64-apple-macosx/debug/SlothCreator.build/SlothCreator-Swift.h"
+    requires objc
+}
