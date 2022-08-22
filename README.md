@@ -1,11 +1,14 @@
-# SlothCreator: Building DocC Documentation in Xcode
+# SlothCreator
 
-Build DocC documentation for a Swift package that contains a DocC Catalog.
+Testing deploying a github pages site using the sample project for DocC (SlothCreator).
 
-## Overview
+* Documentation: https://jagdeep-manik.github.io/SlothDocCPagesTesting/documentation/slothcreator/
+* Tutorials: https://jagdeep-manik.github.io/SlothDocCPagesTesting/tutorials/slothcreator/
 
-- Note: This sample code project is associated with the WWDC21 sessions [10166: Meet DocC documentation in Xcode](https://developer.apple.com/wwdc21/10166), [10167: Elevate your DocC documentation in Xcode](https://developer.apple.com/wwdc21/10167), [10236: Host and automate your DocC Documentation](https://developer.apple.com/wwdc21/10236), and [10235: Build interactive tutorials in DocC](https://developer.apple.com/wwdc21/10235).
+See build-site.zsh.
 
-## Configure the Sample Code Project
+# References
 
-To build documentation for this package, use Xcode 13, open the `Package.swift` file, and select Product > Build Documentation.
+* https://developer.apple.com/documentation/xcode/slothcreator_building_docc_documentation_in_xcode
+* https://www.jessesquires.com/blog/2022/04/22/docc-on-github-pages/
+* https://www.createwithswift.com/publishing-docc-documention-as-a-static-website-on-github-pages/
